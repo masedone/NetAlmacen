@@ -1,0 +1,14 @@
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\obj\Debug\Almacen.csproj.AssemblyReference.cache
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\Nitropc\OneDrive\Escritorio\Experto en C#\Almacen\Almacen\obj\Debug\Almacen.pdb
+E:\cursos\Experto en C#\02-Almacen\Almacen\bin\Debug\Almacen.exe.config
+E:\cursos\Experto en C#\02-Almacen\Almacen\bin\Debug\Almacen.exe
+E:\cursos\Experto en C#\02-Almacen\Almacen\bin\Debug\Almacen.pdb
+E:\cursos\Experto en C#\02-Almacen\Almacen\obj\Debug\Almacen.csproj.AssemblyReference.cache
+E:\cursos\Experto en C#\02-Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+E:\cursos\Experto en C#\02-Almacen\Almacen\obj\Debug\Almacen.exe
+E:\cursos\Experto en C#\02-Almacen\Almacen\obj\Debug\Almacen.pdb
